@@ -1,1 +1,1 @@
-print("hi pull!")
+print("hi!")
